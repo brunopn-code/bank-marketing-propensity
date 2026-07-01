@@ -17,4 +17,15 @@ The classification goal is to predict whether a client subscribed to a term depo
 The project uses:
 
 ```text
+data/processed/bank_marketing_clean.csv
+```
+
+For the full dataset go to:
+
+```text
 data/raw/bank-additional-full.csv
+```
+
+A sample is also available on:
+```text
+data/sample/bank_marketing_sample.csv
